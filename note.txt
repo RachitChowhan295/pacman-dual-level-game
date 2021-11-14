@@ -1,0 +1,10 @@
+Debug: 00
+
+
+Pending:
+
+1.
+2. increase speed of monsters
+3. decrease the number of power pellets 
+4. decrease the time of effect of power pellets
+
